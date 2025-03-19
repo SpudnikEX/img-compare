@@ -1,0 +1,9 @@
+{
+	"id": "img-compare",
+	"name": "Image Compare",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A simple image comparison plugin for Obsidian.md",
+	"author": "Sputnix",
+	"isDesktopOnly": false
+}

@@ -11,4 +11,3 @@ Create a code block within your vault as follows:
 [[image2.jpg]]
 [[image3.jpg]]
 ```
-```
